@@ -75,7 +75,14 @@ Select File → Read Header → Match Magic Number → Identify Type → Validat
 
 ## 🖼️ Screenshots / Demo
 
-> Add screenshots or demo GIFs here
+![windows](images/guiwindows.png)
+This is the select file GUI for windows.
+
+![windows](images/outputwindows.png)
+Result of the scanning
+
+![linux](images/linuxguiandoutput.png)
+This is how it looks in the linux CLI
 
 Suggested examples:
 - File selection dialog
