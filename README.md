@@ -28,6 +28,8 @@ This approach is commonly used in **penetration testing, secure file uploads, in
    - Determines the real file type
    - Compares it with the file extension
    - Warns if a mismatch is detected
+  
+You can download the folders based on your preference GUI or CLI based.
 
 ### Logical Flow
 Select File → Read Header → Match Magic Number → Identify Type → Validate Extension
