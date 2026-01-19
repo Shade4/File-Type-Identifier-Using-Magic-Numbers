@@ -90,5 +90,3 @@ Suggested examples:
 - File selection dialog
 - Terminal output showing detected file type
 - Warning message for mismatched extension
-
-Example output:
